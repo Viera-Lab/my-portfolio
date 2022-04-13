@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+.homebar{
+    background-image: url(/dist/img/bgu.jpg);
+    width: 10px;
+    height: 20px;
+}
